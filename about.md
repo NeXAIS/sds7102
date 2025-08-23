@@ -13,13 +13,13 @@ seo:
 
 _Fall 2024_
 
-**Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) and [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/)
+**Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) & [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/)
 
 **Lectures:** Tuseday, 12:00 - 1:20pm, CR3; Thursday, 11:00 - 12:20, CR1
 
 **Office Hours:** Thursday 12:30 - 13:30, B-3.05
 
-**Email:** [qiang.sun@mbzuai.ac.ae](mailto:qiang.sun@mbzuai.ac.ae) and [eric.moulines@mbzuai.ac.ae](mailto:eric.moulines@mbzuai.ac.ae)
+**Email:** [qiang.sun@mbzuai.ac.ae](mailto:qiang.sun@mbzuai.ac.ae) & [eric.moulines@mbzuai.ac.ae](mailto:eric.moulines@mbzuai.ac.ae)
 
 **TA:** [Ding Bai](), [ding.bai@mbzuai.ac.ae](mailto:ding.bai@mbzuai.ac.ae)
 

@@ -11,7 +11,7 @@ seo:
 
 # SDS7102: Linear Models and Extensions
 
-_Fall 2024_
+_Fall 2025_
 
 **Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) & [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/)
 

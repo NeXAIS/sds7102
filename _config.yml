@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "EECS 700: Introduction to Program Synthesis"
-tagline: "EECS 700: Introduction to Program Synthesis"
-description: "EECS 700: Introduction to Program Synthesis"
-author: Sankha Narayan Guria
-url: https://qsunstats.github.io/course-template # the base hostname & protocol for your site, e.g. http://example.com
+title: "SDS7102"
+tagline: "SDS7102"
+description: "SDS7102"
+author: Qiang Sun
+# url: https://qsunstats.github.io/course-template # the base hostname & protocol for your site, e.g. http://example.com
+url: https://nexais.github.io/sds7102
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 exclude:
   - vendor
@@ -36,8 +37,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Sankha Narayan Guria:
-    - 'https://sankhs.com'
+  Qiang Sun:
+    - 'https://sites.google.com/view/qsun'
 footer_content:
 
 # Collections for website data
@@ -79,8 +80,7 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
 nav_external_links:
-  - title: Canvas
-    url: https://canvas.ku.edu/courses/129458
-  - title: Example Code on Github
-    url: https://github.com/ku-progsys/eecs700-demos
+  - title: Moodle
+    url: https://lms.mbzuai.ac.ae/course/view.php?id=899

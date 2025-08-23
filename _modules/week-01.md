@@ -1,15 +1,7 @@
 ---
-title: Course Overview and Inductive Synthesis
+title: Introduction
 ---
 
-Mon Aug 26
-: [Course Overview](../lectures/lecture01-overview.pdf)
-  : []()
-
-Wed Aug 28
-: [Syntax-Guided Synthesis](../lectures/lecture02-sygus.pdf)
-  : []()
-
-Fri Aug 30
-: [Enumerative Search](../lectures/lecture03-enumeration.pdf)
-  : []()
+Week 1
+: [Introduction](../lectures/1.Intro.pdf)
+  : [code](../code/week1.ipynb)

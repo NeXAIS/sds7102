@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 description: EECS 700 Projects
+nav_exclude: true
 nav_order: 5
 ---
 

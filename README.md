@@ -1,9 +1,7 @@
-# EECS 700: Introduction to Program Synthesis
+# SDS 7102: Linear Models and Extensions
 
-_University of Kansas, Fall 2023_
+_MBZUAI, Fall 2025_
 
-[Website](https://qsunstats.github.io/course-template)
+[Website](https://nexais.github.io/sds7102)
 
-This is the source for the course webpage EECS 700: Introduction to Program Synthesis. The webpage is based on the Jekyll theme [Just the Class](https://github.com/kevinlin1/just-the-class).
-
-This course draws a lot from the other program synthesis classes at [UCSD](https://github.com/nadia-polikarpova/cse291-program-synthesis/) and [MIT](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm).
+This is the source for the course webpage SDS7102. The webpage is based on the Jekyll theme [Just the Class](https://github.com/kevinlin1/just-the-class).

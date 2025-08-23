@@ -6,31 +6,41 @@ nav_order: 1
 permalink: /:path/
 seo:
   type: Course
-  name: "EECS 700: Introduction to Program Synthesis"
+  name: "SDS7102: Linear Models and Extensions"
 ---
 
-# EECS 700: Introduction to Program Synthesis
+# SDS7102: Linear Models and Extensions
 
-**Fall, 2024**
+_Fall 2024_
 
-**Instructor:** [Sankha Narayan Guria](https://sankhs.com)
+**Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) and [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/)
 
-**Lectures:** Monday, Wednesday, and Friday, 3:00 - 3:50pm, LEEP2 G411
+**Lectures:** Tuseday, 12:00 - 1:20pm, CR3; Thursday, 11:00 - 12:20, CR1
 
-**Office Hours:** Monday 4:00 - 5:00pm, Eaton Hall 2034
+**Office Hours:** Thursday 12:30 - 13:30, B-3.05
 
-**Email:** [sankha@ku.edu](mailto:sankha@ku.edu)
+**Email:** [qiang.sun@mbzuai.ac.ae](mailto:qiang.sun@mbzuai.ac.ae) and [eric.moulines@mbzuai.ac.ae](mailto:eric.moulines@mbzuai.ac.ae)
+
+**TA:** [Ding Bai](), [ding.bai@mbzuai.ac.ae](mailto:ding.bai@mbzuai.ac.ae)
+
+**Lab:** Friday, 9:00 - 10:50, CR1
 
 _Please email if standard office hours times do not work for you._
 
-EECS 700: Introduction to Program Synthesis is a comprehensive introduction to automatic programming or program synthesis, an emerging area that sits at the intersection of programming languages, automated reasoning, and artificial intelligence. Program synthesis aims to generate programs automatically from high-level, possibly incomplete descriptions. The course covers a wide variety of recent synthesis techniques that differ in the kind of descriptions they start with tests and input-output examples to formal correctness specifications. It will also cover the search strategies synthesis tools use like enumeration, symbolic execution, type systems, stochastic search, and machine learning.
+### Course Description 
+A central goal in statistics is to use data to build models that allow us to make inferences about the underlying data-generating processes or predict future observations. Although real-world problems are often complex, the linear model frequently provides a good approximation to the true data-generating process. Moreover, linear models possess elegant algebraic and geometric properties and often admit explicit formulas, offering deep insights into various aspects of modern machine learning.  In our experience, the insights gained from linear models are broadly applicable, with only rare exceptions. 
+
+
+### Textbook
+* [Lecture Notes](https://nexais.github.io/sds7102/lectures/lmnotes.pdf)
+* [Ding 2025](https://arxiv.org/pdf/2401.00649.pdf)
+
 
 ### Communications
+* [Moodle](https://lms.mbzuai.ac.ae/course/view.php?id=899)
 
-* [Canvas](https://canvas.ku.edu/courses/129458)
+
 
 ### Disclaimer
-
 All information on this class website is tentative and subject to change. Any substantive change will be accompanied with an announcement to the class via Canvas.
 
-_This course is inspired from other Program Synthesis classes at [MIT](https://people.csail.mit.edu/asolar/SynthesisCourse/), [UCSD](https://github.com/nadia-polikarpova/cse291-program-synthesis/), and [UW Madison](https://github.com/lorisdanto/cs703-program-synthesis). You should check out those courses as well!_

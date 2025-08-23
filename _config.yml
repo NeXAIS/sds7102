@@ -36,9 +36,9 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-aux_links:
-  Qiang Sun:
-    - 'https://sites.google.com/view/qsun'
+# aux_links:
+#   Qiang Sun:
+#     - 'https://sites.google.com/view/qsun'
 footer_content:
 
 # Collections for website data

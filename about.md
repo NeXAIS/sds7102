@@ -13,7 +13,7 @@ seo:
 
 _Fall 2025_
 
-**Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) & [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/)
+**Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) and [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/)
 
 **Lectures:** Tuseday, 12:00 - 13:20, CR3; Thursday, 11:00 - 12:20, CR1
 

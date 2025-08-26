@@ -37,9 +37,27 @@ A central goal in statistics is to use data to build models that allow us to mak
 
 All materials are available as publicly available research papers linked from the [course schedule](../schedule/).
 
-## Minimal Technical Skills Needed
 
-You must be proficient in programming and knowledge of programming languages design and implementation. EECS 662 gives relevant background for this class. While the class is strongly recommended, it is not required.
+### Textbook
+* [Lecture Notes](https://nexais.github.io/sds7102/lectures/lmnotes.pdf)
+* [Ding 2025, Linear Model and Extensions](https://arxiv.org/pdf/2401.00649.pdf)
+* [Dobson and Barnett 2018, An Introduction to Generalized Linear Models](https://www.amazon.com/Introduction-Generalized-Chapman-Statistical-Science/dp/1138741515)
+
+
+
+
+### Reference Books
+* [Agresti 2015, Foundations of Linear and Generalized Linear Models](https://www.amazon.com/Foundations-Linear-Generalized-Probability-Statistics/dp/1118730038)
+* [Knight 2000, Mathematical Statistics](https://www.amazon.com/Mathematical-Statistics-Chapman-Statistical-Science/dp/158488178X)
+* [Hogg, McKean, Craig 2000, Introduction to Mathematical Statistics](https://www.amazon.ae/Introduction-Mathematical-Statistics-Global-Robert/dp/1292264764)
+* [Evans and Rothenthal 2024, Probability and Statistics: The Science of Uncertainty](https://utstat.utoronto.ca/mikevans/jeffrosenthal/)
+
+
+
+
+## Prerequisites and Corequisites
+
+This course assumes basic training in linear algebra, probability theory, and statistical inference.
 
 ## Course Assignments and Requirements
 
@@ -62,7 +80,7 @@ You will have multiple opportunities to provide feedback on your experience in t
 
 ## Attendance Policy
 
-All course materials will be shared online after class. You are expected and encouraged to attend and participate in class. There is 20% points for lecture and lab participation. If you have any problems which will cause you to miss a class/lab or an assignment deadline please email me.
+All course materials will be shared online after class. You are expected and encouraged to attend and participate in class. There are 20% points for lecture and lab participation. If you have any problems which will cause you to miss a class/lab or an assignment deadline please email me.
 
 The [University Excused Absence Policy] is a good reference for allowed reasons.
 

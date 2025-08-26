@@ -15,7 +15,7 @@ _Fall 2025_
 
 **Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) & [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/)
 
-**Lectures:** Tuseday, 12:00 - 1:20pm, CR3; Thursday, 11:00 - 12:20, CR1
+**Lectures:** Tuseday, 12:00 - 13:20, CR3; Thursday, 11:00 - 12:20, CR1
 
 **Office Hours:** Thursday 12:30 - 13:30, B-3.05
 
@@ -32,6 +32,7 @@ A central goal in statistics is to use data to build models that allow us to mak
 
 
 ### Textbook
+
 * [Lecture Notes](https://nexais.github.io/sds7102/lectures/lmnotes.pdf)
 * [Ding 2025, Linear Model and Extensions](https://arxiv.org/pdf/2401.00649.pdf)
 * [Dobson and Barnett 2018, An Introduction to Generalized Linear Models](https://www.amazon.com/Introduction-Generalized-Chapman-Statistical-Science/dp/1138741515)

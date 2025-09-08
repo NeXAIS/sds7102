@@ -17,3 +17,6 @@ Week 3
 : [Multivariate Normal Distributions](../lectures/3.MVN.pdf)
   : []()
 
+Week 4
+: [Asymptotics](../lectures/4.Asymptotics.pdf)
+  : []()

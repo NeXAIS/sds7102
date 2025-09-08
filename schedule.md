@@ -7,6 +7,7 @@ nav_order: 3
 
 # Schedule
 
+[LectureNotes](./lectures/lmnotes.pdf)
 _Schedule beyond next week is subject to change!_
 
 {% for module in site.modules %}
